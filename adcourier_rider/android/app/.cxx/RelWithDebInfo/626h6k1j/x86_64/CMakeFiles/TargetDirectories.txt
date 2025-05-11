@@ -1,0 +1,2 @@
+/Users/efuzone/Downloads/Source code/rider_app/android/app/.cxx/RelWithDebInfo/626h6k1j/x86_64/CMakeFiles/edit_cache.dir
+/Users/efuzone/Downloads/Source code/rider_app/android/app/.cxx/RelWithDebInfo/626h6k1j/x86_64/CMakeFiles/rebuild_cache.dir

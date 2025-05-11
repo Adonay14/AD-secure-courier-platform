@@ -1,0 +1,1 @@
+/Users/efuzone/Downloads/Source code/rider_app/build/app/intermediates/cxx/RelWithDebInfo/626h6k1j/obj/arm64-v8a

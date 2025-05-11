@@ -1,0 +1,2 @@
+C:/adcourier_rider/android/app/.cxx/Debug/5h545jsy/x86/CMakeFiles/edit_cache.dir
+C:/adcourier_rider/android/app/.cxx/Debug/5h545jsy/x86/CMakeFiles/rebuild_cache.dir

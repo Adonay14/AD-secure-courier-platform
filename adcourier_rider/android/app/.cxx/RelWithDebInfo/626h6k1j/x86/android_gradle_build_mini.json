@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/efuzone/Documents/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/efuzone/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/efuzone/Downloads/Source code/rider_app/android/app/.cxx/RelWithDebInfo/626h6k1j/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/efuzone/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/efuzone/Downloads/Source code/rider_app/android/app/.cxx/RelWithDebInfo/626h6k1j/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}
